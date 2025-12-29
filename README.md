@@ -239,7 +239,7 @@ We love contributions! Here's how you can help:
 ## 🗺️ Roadmap
 
 <details>
-<summary><strong>🚀 Version 2.0 - Q1 2025</strong></summary>
+<summary><strong>🚀 Version 2.0</strong></summary>
 
 - [ ] Real AI music transcription API integration
 - [ ] User authentication and profiles
@@ -250,7 +250,7 @@ We love contributions! Here's how you can help:
 </details>
 
 <details>
-<summary><strong>🎸 Version 3.0 - Q2 2025</strong></summary>
+<summary><strong>🎸 Version 3.0</strong></summary>
 
 - [ ] Guitar and violin tutorials
 - [ ] Chord detection and analysis
@@ -261,7 +261,7 @@ We love contributions! Here's how you can help:
 </details>
 
 <details>
-<summary><strong>🌟 Version 4.0 - Q3 2025</strong></summary>
+<summary><strong>🌟 Version 4.0</strong></summary>
 
 - [ ] AR/VR learning experiences
 - [ ] AI-generated practice exercises
